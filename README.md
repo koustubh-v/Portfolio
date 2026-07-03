@@ -1,94 +1,116 @@
-# MAHESH P PAI — Portfolio
+# Koustubh Verma Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-p-pai-b0987b2a8/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHESHPPAI)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maheshppai-v1.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolio-psi-flax.vercel.app)
 
-A high-performance personal portfolio showcasing full-stack engineering expertise, architectural design, and a focus on transforming complex problems into elegant, automated solutions.
+Welcome to my personal portfolio.
 
+This website is a place where I share my work, projects, and journey as a Web Developer, Machine Learning Engineer, and Competitive Programmer. It highlights the projects I have built, the technologies I enjoy working with, and the skills I continue to improve every day.
 
-## 🚀 Overview
+## About
 
-This portfolio is a modern React-based web application built with a focus on immersive user experience (UX) and cinematic aesthetics. It features advanced scroll animations, interactive components, and a "Deep Dark" modernist design system.
+The portfolio is built using React and TypeScript with a clean design and smooth user experience. Every section is made to be simple, fast, and easy to explore.
 
-### Key Features
-- **Immersive Interactivity**: Splash cursor effects, vector bridge interactions, and fluid animations.
-- **Stack-based Project Display**: A custom-engineered scroll stack for showcasing selected works with CSS-in-JS and GSAP power.
-- **Parallax Storytelling**: Multi-layered parallax reveals and scroll-triggered content transitions.
-- **Responsive Architecture**: Fully optimized for mobile, tablet, and desktop viewports.
-- **Mechanical UX**: Integrated smooth-scrolling using Lenis for a tactile feel.
+Inside the portfolio, you will find:
 
----
+* My featured projects
+* Technical skills
+* Experience with Machine Learning and Full Stack Development
+* Competitive Programming journey
+* Contact information
 
-## 🛠️ Technology Stack
+## Features
 
-| Layer | Technologies |
+* Modern and clean design
+* Smooth scrolling and animations
+* Fully responsive on mobile, tablet, and desktop
+* Fast loading with Vite
+* Interactive project showcase
+* Easy navigation
+* Simple and minimal user interface
+
+## Tech Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React 18, TypeScript, Vite |
-| **Styling** | Tailwind CSS, shadcn/ui, Radix UI |
-| **Animation** | Framer Motion, GSAP |
-| **Scrolling** | Lenis Scroll, ScrollVelocity |
-| **Validation** | Zod, React Hook Form |
-| **Icons** | Lucide React |
+| Frontend | React, TypeScript, Vite |
+| Styling | Tailwind CSS |
+| UI Components | shadcn/ui, Radix UI |
+| Animation | Framer Motion, GSAP |
+| Forms | React Hook Form, Zod |
+| Icons | Lucide React |
 
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
-├── components/     # Reusable UI components (Navigation, StarBorder, etc.)
-├── pages/          # Layout sections (Hero, About, SelectedWorks, Contact)
-├── lib/            # Utility functions and library wrappers
-├── hooks/          # Custom React hooks
-└── assets/         # Static assets and styles
+├── components
+├── pages
+├── hooks
+├── lib
+├── assets
+└── styles
 ```
 
----
+## Getting Started
 
-## 🛠️ Getting Started
+### Clone the repository
 
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or bun
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
 
-### Local Development
+### Go to the project folder
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MAHESHPPAI/portfolio-website.git
-   cd Portfolio-website
-   ```
+```bash
+cd YOUR_REPOSITORY
+```
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   bun install
-   ```
+### Install dependencies
 
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
+```bash
+npm install
+```
 
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
+### Start the development server
 
----
+```bash
+npm run dev
+```
 
-## 📬 Contact
+### Build the project
 
-Let's build something intelligent.
+```bash
+npm run build
+```
 
-- **Email**: [maheshpailinked@gmail.com](mailto:maheshpailinked@gmail.com)
-- **Instagram**: [_.maheshhhhhh._](https://www.instagram.com/_.maheshhhhhh._/)
-- **Availability**: Currently available for freelance and full-time opportunities.
+## Live Website
 
----
+https://porfolio-psi-flax.vercel.app
+
+## Contact
+
+Feel free to connect with me.
+
+**Email**
+
+your.email@example.com
+
+**LinkedIn**
+
+YOUR_LINKEDIN_URL
+
+**GitHub**
+
+YOUR_GITHUB_URL
+
+If you have an opportunity, project, or just want to say hello, I would love to hear from you.
+
+## Thank You
+
+Thank you for visiting my portfolio. I hope you enjoy exploring my work and learning more about my journey.
 
 <p align="center">
-  MADE BY MAHESH ® 2026
+Made with ❤️ by Koustubh Verma
 </p>
